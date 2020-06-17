@@ -6,7 +6,7 @@
 // of Web-Like Networks' project made as part of the COT 5405: Design and Analysis of Algorithms
 // graduate course at the University of Central Florida.
 
-// PreferentialDeletionModel.java
+// PDModel.java
 // Implementation of the dynamic random graph model with preferential deletion.
 
 import java.lang.Math;
