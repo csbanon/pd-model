@@ -1,1 +1,1 @@
-# pd-model
+# Preferential Deletion Model (*PDModel*)
